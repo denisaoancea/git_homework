@@ -1,0 +1,2 @@
+In the Git + GitHub training were presented notions from starting with what is a branch, Git flow, best practices and some useful commands.
+GitHub allows collaboration between developers when they are working on the same project and also offers a user-friendly interface that can be used to solve the conflicts.
