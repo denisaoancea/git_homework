@@ -1,0 +1,2 @@
+My favorite feature about GIT is that we can do our work on feature branches so
+the main branch will contain only production-quality code.
